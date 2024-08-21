@@ -1,2 +1,2 @@
-# Assignment-Q1-Data-Science
+# Analysis of Iris Dataset
 EDA on Iris Dataset
